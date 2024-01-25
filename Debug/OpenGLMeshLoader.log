@@ -1,0 +1,9 @@
+﻿  Level2.cpp
+C:\Users\Karim\Desktop\[SpaceOdyssey]-[SpaceOdyssey]\Level2.cpp(280,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Karim\Desktop\[SpaceOdyssey]-[SpaceOdyssey]\Level2.cpp(323,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Karim\Desktop\[SpaceOdyssey]-[SpaceOdyssey]\Level2.cpp(999,37): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Karim\Desktop\[SpaceOdyssey]-[SpaceOdyssey]\Level2.cpp(999,56): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Karim\Desktop\[SpaceOdyssey]-[SpaceOdyssey]\Level2.cpp(1058,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Karim\Desktop\[SpaceOdyssey]-[SpaceOdyssey]\Level2.cpp(1101,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\Karim\Desktop\[SpaceOdyssey]-[SpaceOdyssey]\Debug\OpenGLMeshLoader19.exe
