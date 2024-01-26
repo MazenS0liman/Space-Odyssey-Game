@@ -7,3 +7,9 @@ other level our champions goes to the Conqueror’s (Boss Fight) Spaceship to fi
 
 > [!NOTE]
 > To be able to start the game please download the zip folder that contain assets in [Link 🔗](https://drive.google.com/file/d/1e761LjSnNNjCY8UMR4Lv6dS6ujIZ4hQC/view?usp=sharing) and extract it in the models folder in the root folder.
+
+# Contributors
+* [Mazen Soliman](https://github.com/MazenS0liman)
+* [Karim Gamaleldin](https://github.com/karimgamaleldin)
+* [Omar Abdelsamiee](https://github.com/OmarMUhammed03)
+* [Youssef Abdulfattah](https://github.com/youssefayman02)
